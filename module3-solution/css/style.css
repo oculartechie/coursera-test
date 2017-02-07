@@ -1,0 +1,36 @@
+main-contentg#h1 {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+/********** Card Container **********/
+div#container {
+  position: relative;
+    background-color: gainsboro;
+    border: 1px solid black;
+    margin: 10px; 
+
+}
+
+/********** Menu Title Style **********/
+p#menu-header {
+  height: 20px;
+  width: 90px;
+  font-family: Helvetica;
+  text-align: center;
+  position: relative;
+  float: right;
+  top: 0;
+}
+
+/********** Menu Color Tab #1 **********/
+#p1 {
+  background-color: red;
+}
+
+/********** Menu Details Content Container **********/
+#content {
+  margin-top: 30px;
+  padding: 10px;
+}
