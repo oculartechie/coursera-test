@@ -1,0 +1,37 @@
+div#container {
+    position: relative;
+    background-color: gainsboro;
+    border: 1px solid black;
+    margin: 10px; 
+}
+
+/********** Menu Title Style **********/
+
+p#menu-header {
+    font-size: 30px;
+}
+
+p#menu-item-header {
+    font-size: 20px;
+}
+
+/********** Menu Details Content Container **********/
+#content {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+/********** Navigation List Details **********/
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+#nav-list a {
+    background-color: aliceblue;
+    border: 1px solid black;
+    text-align: center;
+}
